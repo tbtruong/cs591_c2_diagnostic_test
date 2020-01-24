@@ -80,7 +80,7 @@ auth_blueprint.add_url_rule(
 )
 
 auth_blueprint.add_url_rule(
-    '/test',
+    '/users/index',
     view_func=user_view,
     methods=['GET']
 )
