@@ -1,0 +1,6 @@
+Referenced: 
+https://realpython.com/token-based-authentication-with-flask/
+https://medium.com/the-andela-way/deploying-a-python-flask-app-to-heroku-41250bda27d0
+
+Code from: 
+dharmesh@cs.bu.edu and cumason@bu.edu 
